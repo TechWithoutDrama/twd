@@ -32,5 +32,5 @@ Please ensure you have enough internet data and storage before running.
 1. Open Termux.
 2. Clone this repository (or download the files):
    ```bash
-   git clone https://github.com/TechWithoutDrama/twd-desktop.git
-   cd twd-desktop
+   git clone https://github.com/TechWithoutDrama/twd.git
+   cd twd
